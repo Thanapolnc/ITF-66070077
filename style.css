@@ -1,20 +1,28 @@
 #websiteTitle {
-    font-size: 128px;
-    color: red;
+    text-align: center;
+    font-size: 64px;
+    color: whitesmoke;
     font-weight: 200;
 }
 
-.redText {
-    color: red;
-    font-size: 800;
+#name {
+    text-align: center;
+    font-size: 48px;
+    color: whitesmoke;
+    font-weight: 200;
+}
+
+.whitesmokeText {
+    color: whitesmoke;
+    font-size: 1000;
 }
 
 #first {
     display: inline-block;
-    width: 500px;
-    border: 2px blue solid;
+    width: 400px;
+    border: 2px whitesmoke;
     padding: 30px 0px;
-    margin: 200px 0px;
+    margin: 40px 0px;
 }
 
 #third {
@@ -33,5 +41,30 @@ span{
     display: inline-block;
     width:  600px;
     border: 2px black solid;
-    padding:  50px 20px;
+    padding:  20px 0px;
+}
+
+#nickname {
+    text-align: center;
+    font-size: 32px;
+    color: whitesmoke;
+    font-weight: 200;
+}
+
+body {
+    background-image: url(./boom.jpg);
+}
+
+#link {
+    text-align: center;
+    font-size: 36px;
+    color: whitesmoke;
+    font-weight: 200;
+}
+
+#me {
+
+    font-size: 32px;
+    color: whitesmoke;
+    font-weight: 200;
 }
